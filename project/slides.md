@@ -81,13 +81,7 @@ layout: two-cols
 
 ::right::
 
-<div 
-  class="ml-4"
-  v-motion
-  :initial="{ opacity: 0, scale: 0.8 }"
-  :enter="{ opacity: 1, scale: 1, transition: { duration: 700 } }">
-  <img src="https://source.unsplash.com/random/800x600/?education" class="rounded-lg shadow-xl mt-4" />
-</div>
+ 
 
 ---
 layout: default
