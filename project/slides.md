@@ -333,7 +333,7 @@ class: text-center
   <div class="grid grid-cols-2 gap-8 mt-8">
     <div class="text-left">
       <h3 class="text-2xl font-bold mb-4">Get in Touch</h3>
-      <p class="mb-2">📧 Email: dattudattakumar.com</p>
+      <p class="mb-2">📧 Email: dattudattakumar@gmail.com</p>
       <p class="mb-2">📱 Phone: 93810504702</p>
       <p class="mb-2">🌐 Website: www.iexams.live</p>
     </div>
